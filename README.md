@@ -40,10 +40,10 @@ bash pip install -r requirements.txt
    cd /путь-к-папке/practice_qa_tracker
    python -m pytest tests/ -v
    ```
-3. Все тесты (поочередно через main)
+2. Все тесты (поочередно через main)
    ```
 cd /путь-к-папке/practice_qa_tracker
    python main.py
    ```
-4. Запуск посредством IDE
+3. Запуск посредством IDE
    
