@@ -44,6 +44,6 @@ python -m pytest tests/ -v
    ```
 cd /путь-к-папке/practice_qa_tracker
    python main.py
-```
+   ```
 4. Запуск посредством IDE
    
