@@ -14,27 +14,25 @@
 
 ## Инструкция
 ### Установка:
-git clone https://github.com/lsoralnolkagel/practice_qa_tracker.git 
-/n cd practice_qa_tracker
+'''git clone https://github.com/lsoralnolkagel/practice_qa_tracker.git 
+cd practice_qa_tracker'''
 
 ### Создайте и активируйте виртуальное окружение:
-bash
-python3 -m venv .venv
+bash'''python3 -m venv .venv
 source .venv/bin/activate  # Linux/macOS
-.venv\Scripts\activate    # Windows
+.venv\Scripts\activate    # Windows'''
 
 ### Установите зависимости:
-bash
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 
 ### Не забудьте заполнить .env актуальными данными!
 
 ### Запуск тестов:
 1. Все тесты
-   cd /путь-к-папке/practice_qa_tracker
+   '''cd /путь-к-папке/practice_qa_tracker'''
 python -m pytest tests/ -v
 2. Все тесты (поочередно через main)
-   cd /путь-к-папке/practice_qa_tracker
-   python main.py
+   '''cd /путь-к-папке/practice_qa_tracker
+   python main.py'''
 3. Запуск посредством IDE
    
