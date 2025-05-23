@@ -42,7 +42,7 @@ bash pip install -r requirements.txt
    ```
 2. Все тесты (поочередно через main)
    ```
-cd /путь-к-папке/practice_qa_tracker
+   cd /путь-к-папке/practice_qa_tracker
    python main.py
    ```
 3. Запуск посредством IDE
