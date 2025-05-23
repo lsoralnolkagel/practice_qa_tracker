@@ -15,11 +15,11 @@
 ## Инструкция
 ### Установка:
 
-bash```git clone https://github.com/lsoralnolkagel/practice_qa_tracker.git 
+```git clone https://github.com/lsoralnolkagel/practice_qa_tracker.git 
 cd practice_qa_tracker```
 
 ### Создайте и активируйте виртуальное окружение:
-bash```python3 -m venv .venv
+```python3 -m venv .venv
 source .venv/bin/activate  # Linux/macOS
 .venv\Scripts\activate    # Windows```
 
