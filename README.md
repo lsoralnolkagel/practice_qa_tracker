@@ -38,8 +38,8 @@ bash pip install -r requirements.txt
 1. Все тесты
    ```
    cd /путь-к-папке/practice_qa_tracker
+   python -m pytest tests/ -v
    ```
-python -m pytest tests/ -v
 3. Все тесты (поочередно через main)
    ```
 cd /путь-к-папке/practice_qa_tracker
