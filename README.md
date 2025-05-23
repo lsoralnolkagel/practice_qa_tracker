@@ -14,7 +14,7 @@
 
 ## Инструкция
 ### Установка:
-git clone https://github.com/lsoralnolkagel/practice_qa_tracker.git
+git clone https://github.com/lsoralnolkagel/practice_qa_tracker.git 
 cd practice_qa_tracker
 
 ### Создайте и активируйте виртуальное окружение:
